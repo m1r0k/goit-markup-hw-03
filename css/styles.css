@@ -296,11 +296,11 @@ li {
 
 .page-footer-container .link-logo .logo {
     color: #F4F4FD;
-    margin-bottom: 16px;
 }
 
 .paragraph-footer {
     line-height: 1.5;
     color: #F4F4FD;
     letter-spacing: 0.02em;
+    margin-top: 16px;
 }
